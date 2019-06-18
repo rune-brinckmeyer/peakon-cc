@@ -1,0 +1,12 @@
+.box {
+    border: 1px solid grey;
+    padding: 2em;
+    background: rgba(44,55,66,0.2);
+    text-align: center;
+}
+
+.sub {
+    text-align: center;
+    font-size: 36px;
+    margin-bottom: 8px;
+}
